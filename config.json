@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereave",
+        "uuid": 5805971,
+        "checksum": "smnrd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
